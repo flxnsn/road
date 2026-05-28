@@ -1,7 +1,7 @@
 # road
 
 A small cli tool to track progress, cause my pc is always on anyway.
-Logs numeric values (reps, km, minutes, pages — whatever you're tracking) to a local JSON file with no dependencies beyond Python 3.
+Logs numeric values without specified units to a local JSON file with no dependencies beyond Python 3.
 
 ---
 
